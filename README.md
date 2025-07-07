@@ -25,10 +25,12 @@ A simple, interactive Tic-Tac-Toe (X-O) game built using **HTML**, **CSS**, and 
 - CSS3 (Flexbox, Transitions)
 - Vanilla JavaScript (ES6+)
 
-📁 Project Structure
-- index.html_________# Main HTML structure
-- TTT_style.css______# Styling and animation
-- TTT_js.js__________# Game logic
+
+📁 **Project Structure**  
+- `index.html`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Main HTML structure  
+- `TTT_style.css`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Styling and animation  
+- `TTT_js.js`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Game logic  
+
 
 
 ## 🔧 How to Run Locally
