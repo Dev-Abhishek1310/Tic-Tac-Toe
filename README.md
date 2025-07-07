@@ -40,7 +40,7 @@ Edit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Dev-Abhishek1310/tic-tac-toe.git
+   git clone https://github.com/your-username/tic-tac-toe.git
 Navigate to the project folder
 
 bash
@@ -51,7 +51,7 @@ Open index.html in your browser
 
 You can also use a live server extension in VS Code for easier development.
 
-💡 Future Improvements
+##💡 Future Improvements
 Add Player vs Computer mode with AI
 
 Add score tracking
