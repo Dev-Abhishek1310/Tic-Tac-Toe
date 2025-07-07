@@ -13,7 +13,7 @@ A simple, interactive Tic-Tac-Toe (X-O) game built using **HTML**, **CSS**, and 
 
 ## 🚀 Live Demo
 
-[🔗 Play it here](#) *(You can add your GitHub Pages link or Netlify/Vercel deployment link here)*
+🔗 Play it here ==> https://dev-abhishek1310.github.io/Tic-Tac-Toe/
 
 ## 📸 Screenshots
 
