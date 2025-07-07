@@ -29,7 +29,9 @@ A simple, interactive Tic-Tac-Toe (X-O) game built using **HTML**, **CSS**, and 
 
 Tic-Tac-Toe/
 ├── index.html # Main HTML structure
+|
 ├── TTT_style.css # Styling and animation
+|
 └── TTT_js.js # Game logic
 
 bash
