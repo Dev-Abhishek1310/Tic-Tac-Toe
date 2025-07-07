@@ -45,6 +45,26 @@ Open index.html in your browser
 
 You can also use a live server extension in VS Code for easier development.
 
+🚀 Clone and Run Locally
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/Dev-Abhishek1310/tic-tac-toe.git
+Navigate to the project folder
+
+bash
+Copy
+Edit
+cd tic-tac-toe
+Open index.html in your browser
+
+You can either double-click the index.html file
+or
+
+Use the Live Server extension in VS Code for easier development.
+
 
 ## 💡 Future Improvements
 Add Player vs Computer mode with AI
