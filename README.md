@@ -52,16 +52,14 @@ Open index.html in your browser
 You can also use a live server extension in VS Code for easier development.
 
 
-## 💡 Project Structure
+## 💡 Future Improvements
+Add Player vs Computer mode with AI
 
-Tic-Tac-Toe/
-├── index.html # Main HTML structure
-├── TTT_style.css # Styling and animation
-└── TTT_js.js # Game logic
+Add score tracking
 
-bash
-Copy
-Edit
+Add sound effects and animations
+
+Support for game theme customization (dark/light mode)
 
 ## 🔧 How to Run Locally
 
@@ -77,13 +75,3 @@ cd tic-tac-toe
 Open index.html in your browser
 
 You can also use a live server extension in VS Code for easier development.
-
-
- Future Improvements
-Add Player vs Computer mode with AI
-
-Add score tracking
-
-Add sound effects and animations
-
-Support for game theme customization (dark/light mode)
