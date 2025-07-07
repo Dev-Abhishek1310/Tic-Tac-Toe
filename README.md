@@ -61,17 +61,4 @@ Add sound effects and animations
 
 Support for game theme customization (dark/light mode)
 
-## 🔧 How to Run Locally
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-Navigate to the project folder
-
-bash
-Copy
-Edit
-cd tic-tac-toe
-Open index.html in your browser
-
-You can also use a live server extension in VS Code for easier development.
