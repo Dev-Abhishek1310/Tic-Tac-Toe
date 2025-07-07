@@ -52,7 +52,7 @@ Open index.html in your browser
 You can also use a live server extension in VS Code for easier development.
 
 
-## 📁 Project Structure
+## 💡 Project Structure
 
 Tic-Tac-Toe/
 ├── index.html # Main HTML structure
@@ -79,7 +79,7 @@ Open index.html in your browser
 You can also use a live server extension in VS Code for easier development.
 
 
-💡 Future Improvements
+ Future Improvements
 Add Player vs Computer mode with AI
 
 Add score tracking
