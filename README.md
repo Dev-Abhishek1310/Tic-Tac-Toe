@@ -17,7 +17,7 @@ A simple, interactive Tic-Tac-Toe (X-O) game built using **HTML**, **CSS**, and 
 
 ## 📸 Screenshots
 
-![screenshot](https://via.placeholder.com/800x400.png?text=Tic-Tac-Toe+Screenshot)
+🔗 screenshot ==> https://raw.githubusercontent.com/Dev-Abhishek1310/Tic-Tac-Toe/refs/heads/main/Screenshot%202025-07-08%20021206.png
 
 ## 🧩 Technologies Used
 
