@@ -52,12 +52,11 @@ Open index.html in your browser
 You can also use a live server extension in VS Code for easier development.
 
 
----
+💡 Future Improvements
+Add Player vs Computer mode with AI
 
-### 💡 Tips to Avoid These Issues:
+Add score tracking
 
-- Use triple backticks (```) for code blocks — especially for shell commands.
-- Don't paste code and descriptions on the same line unless you use inline code (``like this``).
-- Headers must start at the beginning of the line without spaces and use `#` correctly (e.g., `##`, not `## ` followed by other text without line break).
+Add sound effects and animations
 
-Would you like me to regenerate the full, clean version of the `README.md` again for you with these fixes applied?
+Support for game theme customization (dark/light mode)
