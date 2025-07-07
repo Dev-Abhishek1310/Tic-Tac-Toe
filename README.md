@@ -27,3 +27,35 @@ A simple, interactive Tic-Tac-Toe (X-O) game built using **HTML**, **CSS**, and 
 
 ## 📁 Project Structure
 
+Tic-Tac-Toe/
+├── index.html # Main HTML structure
+├── TTT_style.css # Styling and animation
+└── TTT_js.js # Game logic
+
+bash
+Copy
+Edit
+
+## 🔧 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe.git
+Navigate to the project folder
+
+bash
+Copy
+Edit
+cd tic-tac-toe
+Open index.html in your browser
+
+You can also use a live server extension in VS Code for easier development.
+
+💡 Future Improvements
+Add Player vs Computer mode with AI
+
+Add score tracking
+
+Add sound effects and animations
+
+Support for game theme customization (dark/light mode)
