@@ -48,11 +48,6 @@ A simple, interactive Tic-Tac-Toe (X-O) game built using **HTML**, **CSS**, and 
 
 
 ## 💡 Future Improvements
-1.**Add Player vs Computer mode with AI**
-2.**Add score tracking**
-3.**Add sound effects and animation**
-4.**Support for game theme customization (dark/light mode)**
-
 1. **Add Player vs Computer mode with AI**
 2. **Add score tracking**
 3. **Add sound effects and animation**
